@@ -22,4 +22,10 @@
 ### Add Command and index file
 ![Phase 3 Add](screenshots/phase3_add_index.jpeg)
 
+## Phase 4 - Commit System
+
+### Commit Command and log output
+![Phase 4 Commit](screenshots/phase4_commit_log.jpeg)
+
+
 
