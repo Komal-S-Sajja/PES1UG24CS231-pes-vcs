@@ -16,3 +16,10 @@
 
 ### Screenshot 2B: Raw Tree Object (Hex Dump)
 ![Tree Hex](phase2_tree_hex.jpeg)
+
+## Phase 3 - Index (Staging)
+
+### Add Command and index file
+![Phase 3 Add](screenshots/phase3_add_index.jpeg)
+
+
