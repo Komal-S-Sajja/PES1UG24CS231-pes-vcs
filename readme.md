@@ -3,10 +3,10 @@
 ## Phase 1 - Object Storage
 
 ### Screenshot 1A: Test Output
-![Phase 1 Test](screenshots/phase1_test_objects.png)
+![Phase 1 Test](screenshots/phase1_test_objects.jpeg)
 
 ### Screenshot 1B: Object Storage Structure
-![Phase 1 Structure](screenshots/phase1_object_structure.png)
+![Phase 1 Structure](screenshots/phase1_object_structure.jpeg)
 
 
 ---
