@@ -82,8 +82,19 @@ Implemented commit creation and history tracking.
 
 Commit + Log Output  
 ![Phase 4](screenshots/phase4_commit_log.jpeg)
+Screenshot 4B: Object Growth
+![Phase 4B](screenshots/phase4_object_growth.jpeg)
+Screenshot 4C: HEAD and Branch Reference
+![Phase 4C](screenshots/phase4_head_refs.jpeg)
 
 ---
+
+
+### Final Integration Test (Part 1)
+![Integration 1](screenshots/final_integration_1.jpeg)
+
+### Final Integration Test (Part 2)
+![Integration 2](screenshots/final_integration_2.jpeg)
 
 ## Analysis Questions
 
